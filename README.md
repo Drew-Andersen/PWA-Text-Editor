@@ -36,7 +36,7 @@ To use this application you will need it cloned down on your local machine or go
 Open to collaboration, if you choose to do so open an issue and modify any changes you would like to see on a feature branch and wait for approval before merging to the main branch.
 
 ## Questions
-If you have additional questions please feel free to reach out to me though my GitHub or email.
+If you have additional questions please feel free to reach out to me though my GitHub or email. <br />
 [Link to Github](https://github.com/Drew-Andersen)
 
 <a href="mailto:andrewtandersen@gmail.com">andrewtandersen@gmail.com</a>
