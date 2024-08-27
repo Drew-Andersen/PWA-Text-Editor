@@ -1,10 +1,9 @@
+// Imports
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
-// TODO: Add and configure workbox plugins for a service worker and manifest file.
-// TODO: Add CSS loaders and babel to webpack.
 
 module.exports = () => {
   return {
@@ -35,7 +34,6 @@ module.exports = () => {
         name: "Text Editor",
         short_name: "Text",
         description: "Keep notes here.",
-        // Add color / theme
         background_color: "#7eb4e2",
         theme_color: "#7eb4e2",
         start_url: "/",
